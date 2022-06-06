@@ -1,0 +1,165 @@
+[submodule "plugins/start/nerdtree"]
+	path = plugins/start/nerdtree
+	url = https://github.com/scrooloose/nerdtree
+[submodule "plugins/start/nerdtree-git-plugin"]
+	path = plugins/start/nerdtree-git-plugin
+	url = https://github.com/Xuyuanp/nerdtree-git-plugin
+[submodule "colors/start/gruvbox"]
+	path = colors/start/gruvbox
+	url = https://github.com/morhetz/gruvbox.git
+[submodule "plugins/start/vim-airline"]
+	path = plugins/start/vim-airline
+	url = https://github.com/vim-airline/vim-airline.git
+[submodule "colors/start/onehalf"]
+	path = colors/start/onehalf
+	url = https://github.com/sonph/onehalf.git
+[submodule "colors/start/uwu"]
+	path = colors/start/uwu
+	url = https://github.com/Mangeshrex/uwu.vim.git
+[submodule "colors/start/nightfly"]
+	path = colors/start/nightfly
+	url = https://github.com/bluz71/vim-nightfly-guicolors.git
+[submodule "colors/start/embark"]
+	path = colors/start/embark
+	url = https://github.com/embark-theme/vim.git
+[submodule "plugins/start/commentary"]
+	path = plugins/start/commentary
+	url = https://tpope.io/vim/commentary.git
+[submodule "plugins/start/vim-airline-themes"]
+	path = plugins/start/vim-airline-themes
+	url = https://github.com/vim-airline/vim-airline-themes.git
+[submodule "plugins/start/vim-devicons"]
+	path = plugins/start/vim-devicons
+	url = https://github.com/ryanoasis/vim-devicons.git
+[submodule "syntax/start/yats"]
+	path = syntax/start/yats
+	url = https://github.com/HerringtonDarkholme/yats.vim.git
+[submodule "plugins/start/fzf"]
+	path = plugins/start/fzf
+	url = https://github.com/junegunn/fzf.vim.git
+[submodule "plugins/start/fzf-vim"]
+	path = plugins/start/fzf-vim
+	url = https://github.com/junegunn/fzf.git
+[submodule "colors/start/monokai"]
+	path = colors/start/monokai
+	url = https://github.com/sickill/vim-monokai.git
+[submodule "colors/start/tokyonight"]
+	path = colors/start/tokyonight
+	url = https://github.com/ghifarit53/tokyonight-vim.git
+[submodule "plugins/start/vimmove"]
+	path = plugins/start/vimmove
+	url = https://github.com/matze/vim-move.git
+[submodule "plugins/start/auto-pairs"]
+	path = plugins/start/auto-pairs
+	url = https://github.com/jiangmiao/auto-pairs.git
+[submodule "plugins/start/indent-blankline"]
+	path = plugins/start/indent-blankline
+	url = https://github.com/lukas-reineke/indent-blankline.nvim.git
+[submodule "plugins/start/barbar"]
+	path = plugins/start/barbar
+	url = https://github.com/romgrk/barbar.nvim.git
+[submodule "plugins/start/nvivm-web-devicons"]
+	path = plugins/start/nvivm-web-devicons
+	url = https://github.com/kyazdani42/nvim-web-devicons.git
+[submodule "syntax/start/nvim-lspconfig"]
+	path = syntax/start/nvim-lspconfig
+	url = https://github.com/neovim/nvim-lspconfig.git
+[submodule "plugins/start/vim-smoothie"]
+	path = plugins/start/vim-smoothie
+	url = https://github.com/psliwka/vim-smoothie.git
+[submodule "plugins/far"]
+	path = plugins/far
+	url = https://github.com/brooth/far.vim.git
+[submodule "colors/start/everforest"]
+	path = colors/start/everforest
+	url = https://github.com/sainnhe/everforest.git
+[submodule "colors/start/solarized"]
+	path = colors/start/solarized
+	url = https://github.com/altercation/vim-colors-solarized.git
+[submodule "plugins/start/dashboard-nvim"]
+	path = plugins/start/dashboard-nvim
+	url = https://github.com/glepnir/dashboard-nvim.git
+[submodule "colors/start/melange"]
+	path = colors/start/melange
+	url = https://github.com/savq/melange.git
+[submodule "colors/start/catppuccin"]
+	path = colors/start/catppuccin
+	url = https://github.com/catppuccin/nvim.git
+[submodule "syntax/start/completion-nvim"]
+	path = syntax/start/completion-nvim
+	url = https://github.com/nvim-lua/completion-nvim.git
+[submodule "syntax/start/nvim-cmp"]
+	path = syntax/start/nvim-cmp
+	url = https://github.com/hrsh7th/nvim-cmp.git
+[submodule "syntax/start/coq_nvim"]
+	path = syntax/start/coq_nvim
+	url = https://github.com/ms-jpq/coq_nvim.git
+[submodule "syntax/start/coc"]
+	path = syntax/start/coc
+	url = https://github.com/neoclide/coc.nvim.git
+[submodule "plugins/start/vim-surround"]
+	path = plugins/start/vim-surround
+	url = https://github.com/tpope/vim-surround.git
+[submodule "plugins/start/nvim-transparent"]
+	path = plugins/start/nvim-transparent
+	url = https://github.com/xiyaowong/nvim-transparent.git
+[submodule "colors/start/vim-purpura"]
+	path = colors/start/vim-purpura
+	url = https://github.com/yassinebridi/vim-purpura.git
+[submodule "colors/start/palenight"]
+	path = colors/start/palenight
+	url = https://github.com/drewtempelmeyer/palenight.vim.git
+[submodule "plugins/start/vista"]
+	path = plugins/start/vista
+	url = https://github.com/liuchengxu/vista.vim.git
+[submodule "colors/start/spaceduck"]
+	path = colors/start/spaceduck
+	url = https://github.com/pineapplegiant/spaceduck.git
+[submodule "plugins/start/minimap"]
+	path = plugins/start/minimap
+	url = https://github.com/wfxr/minimap.vim.git
+[submodule "plugins/start/signify"]
+	path = plugins/start/signify
+	url = https://github.com/mhinz/vim-signify.git
+[submodule "plugins/start/fugitive"]
+	path = plugins/start/fugitive
+	url = https://github.com/tpope/vim-fugitive.git
+[submodule "colors/start/sobrio"]
+	path = colors/start/sobrio
+	url = https://github.com/elvessousa/sobrio.git
+[submodule "plugins/start/git-signs"]
+	path = plugins/start/git-signs
+	url = https://github.com/lewis6991/gitsigns.nvim.git
+[submodule "syntax/start/ultisnips"]
+	path = syntax/start/ultisnips
+	url = https://github.com/SirVer/ultisnips.git
+[submodule "syntax/start/vim-snippets"]
+	path = syntax/start/vim-snippets
+	url = https://github.com/honza/vim-snippets.git
+[submodule "colors/start/onedark"]
+	path = colors/start/onedark
+	url = https://github.com/joshdick/onedark.vim.git
+[submodule "colors/start/badwolf"]
+	path = colors/start/badwolf
+	url = https://github.com/sjl/badwolf.git
+[submodule "plugins/start/vim-obsession"]
+	path = plugins/start/vim-obsession
+	url = https://github.com/tpope/vim-obsession.git
+[submodule "colors/start/minimalist"]
+	path = colors/start/minimalist
+	url = https://github.com/dikiaap/minimalist.git
+[submodule "syntax/start/vim-jsx-typescript"]
+	path = syntax/start/vim-jsx-typescript
+	url = https://github.com/peitalin/vim-jsx-typescript.git
+[submodule "colors/start/code-dark"]
+	path = colors/start/code-dark
+	url = https://github.com/tomasiser/vim-code-dark.git
+[submodule "colors/start/paradise"]
+	path = colors/start/paradise
+	url = https://github.com/Manas140/paradise.git
+[submodule "colors/start/github-dark"]
+	path = colors/start/github-dark
+	url = https://github.com/vv9k/vim-github-dark.git
+[submodule "plugins/start/vim-visual-multi"]
+	path = plugins/start/vim-visual-multi
+	url = https://github.com/mg979/vim-visual-multi.git
